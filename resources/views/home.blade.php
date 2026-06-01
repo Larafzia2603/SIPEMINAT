@@ -24,7 +24,7 @@
                         </div>
                         <div>
                             <p class="text-xs font-semibold uppercase tracking-[0.35em] text-primary-600">SIPEMINAT</p>
-                            <h1 class="mt-1 text-lg font-bold text-slate-900 sm:text-xl">Sistem Rekomendasi Pemilihan Mata Kuliah Peminatan</h1>
+                            <h1 class="mt-1 text-lg font-bold text-slate-900 sm:text-xl">TEST DEPLOY TERBARU</h1>
                         </div>
                     </div>
 
